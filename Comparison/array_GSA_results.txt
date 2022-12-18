@@ -1,0 +1,101 @@
+"Term"	"Ont"	"N"	"DE"	"P.DE"	"FDR.DE"
+"GO:0009987"	"cellular process"	"BP"	17325	2571	5.52083960260268e-10	3.15157128714574e-06
+"GO:0050794"	"regulation of cellular process"	"BP"	11305	1738	6.00733802046321e-08	0.000274343112718514
+"GO:0080090"	"regulation of primary metabolic process"	"BP"	5825	928	5.44179661629823e-06	0.0092725172619517
+"GO:0031323"	"regulation of cellular metabolic process"	"BP"	6023	954	9.9404721940716e-06	0.0133518083576136
+"GO:0051171"	"regulation of nitrogen compound metabolic process"	"BP"	5667	901	1.14643055899054e-05	0.0137628323855637
+"GO:0065007"	"biological regulation"	"BP"	12871	1928	1.98462606163706e-05	0.0205986143142821
+"GO:0044249"	"cellular biosynthetic process"	"BP"	5648	893	3.09004827417975e-05	0.0293992342885918
+"GO:0051173"	"positive regulation of nitrogen compound metabolic process"	"BP"	3058	506	4.23350935024711e-05	0.038667181001417
+"GO:0050789"	"regulation of biological process"	"BP"	12147	1822	4.58345099146688e-05	0.0394416158085879
+"GO:0051252"	"regulation of RNA metabolic process"	"BP"	3692	601	4.66376292735339e-05	0.0394416158085879
+"GO:0031325"	"positive regulation of cellular metabolic process"	"BP"	3256	534	6.42121731013938e-05	0.047652208890898
+"GO:0009889"	"regulation of biosynthetic process"	"BP"	4165	670	6.46938107917071e-05	0.047652208890898
+"GO:0009058"	"biosynthetic process"	"BP"	5801	911	6.8912326314925e-05	0.0476831533053029
+"GO:0051179"	"localization"	"BP"	6234	974	7.22504681276403e-05	0.0483042289510966
+"GO:1901576"	"organic substance biosynthetic process"	"BP"	5715	898	7.40408169084865e-05	0.0483042289510966
+"GO:0031326"	"regulation of cellular biosynthetic process"	"BP"	4102	658	0.000107852629664998	0.0665596471829885
+"GO:0010556"	"regulation of macromolecule biosynthetic process"	"BP"	3932	632	0.000123560017686594	0.0742465643119917
+"GO:0006357"	"regulation of transcription by RNA polymerase II"	"BP"	2551	424	0.00013425115092494	0.0786023276979507
+"GO:2001141"	"regulation of RNA biosynthetic process"	"BP"	3407	553	0.000138565472735449	0.0791001001110313
+"GO:0006366"	"transcription by RNA polymerase II"	"BP"	2628	435	0.000156832787648996	0.0852647588851706
+"GO:0019219"	"regulation of nucleobase-containing compound metabolic process"	"BP"	3995	640	0.000160678289653773	0.0853239085105641
+"GO:0009893"	"positive regulation of metabolic process"	"BP"	3762	605	0.00017062630884666	0.0885472985501052
+"GO:0006355"	"regulation of transcription, DNA-templated"	"BP"	3397	550	0.000187281309717988	0.08990681788798
+"GO:0010604"	"positive regulation of macromolecule metabolic process"	"BP"	3444	557	0.000188558446665698	0.08990681788798
+"GO:1903506"	"regulation of nucleic acid-templated transcription"	"BP"	3398	550	0.000192933085596524	0.08990681788798
+"GO:0051254"	"positive regulation of RNA metabolic process"	"BP"	1747	299	0.000206301865696693	0.0942139360263657
+"GO:0007033"	"vacuole organization"	"BP"	188	45	0.000241223617880978	0.103926416805552
+"GO:0009059"	"macromolecule biosynthetic process"	"BP"	4704	742	0.000272512654658371	0.115232480675356
+"GO:0032774"	"RNA biosynthetic process"	"BP"	3538	568	0.000338997915156721	0.134835626021362
+"GO:0065009"	"regulation of molecular function"	"BP"	3077	499	0.000342492174355742	0.134835626021362
+"GO:0097659"	"nucleic acid-templated transcription"	"BP"	3520	565	0.00035976217561222	0.139234059625923
+"GO:0046340"	"diacylglycerol catabolic process"	"BP"	4	4	0.000406053309814688	0.144112184388038
+"GO:0000730"	"DNA recombinase assembly"	"BP"	4	4	0.000406053309814688	0.144112184388038
+"GO:0090735"	"DNA repair complex assembly"	"BP"	4	4	0.000406053309814688	0.144112184388038
+"GO:0070235"	"regulation of activation-induced cell death of T cells"	"BP"	4	4	0.000406053309814688	0.144112184388038
+"GO:0006351"	"transcription, DNA-templated"	"BP"	3518	564	0.000410234386669986	0.144112184388038
+"GO:0048548"	"regulation of pinocytosis"	"BP"	12	7	0.000474567799299343	0.159357075429429
+"GO:0051716"	"cellular response to stimulus"	"BP"	7493	1144	0.000526635003999531	0.171788338304647
+"GO:0046486"	"glycerolipid metabolic process"	"BP"	396	80	0.000608678785539613	0.193035713736271
+"GO:0043393"	"regulation of protein binding"	"BP"	196	45	0.000635153011595883	0.198672381736718
+"GO:0045935"	"positive regulation of nucleobase-containing compound metabolic process"	"BP"	1952	325	0.000776971069303527	0.236551431953023
+"GO:0019438"	"aromatic compound biosynthetic process"	"BP"	4009	633	0.000815064975154485	0.239929198616968
+"GO:0006644"	"phospholipid metabolic process"	"BP"	388	78	0.000819588223356552	0.239929198616968
+"GO:0086002"	"cardiac muscle cell action potential involved in contraction"	"BP"	54	17	0.0009281727058962	0.258462141054071
+"GO:1901264"	"carbohydrate derivative transport"	"BP"	78	22	0.000958769905768228	0.260539535092309
+"GO:0048518"	"positive regulation of biological process"	"BP"	6245	959	0.00100243810590552	0.266158973374961
+"GO:1990822"	"basic amino acid transmembrane transport"	"BP"	10	6	0.00102402847717307	0.268766278709998
+"GO:0048522"	"positive regulation of cellular process"	"BP"	5706	880	0.00109833274195935	0.273685655020489
+"GO:0050896"	"response to stimulus"	"BP"	9030	1359	0.00114258308726461	0.273685655020489
+"GO:0050779"	"RNA destabilization"	"BP"	94	25	0.00114592963015696	0.273685655020489
+"GO:0031060"	"regulation of histone methylation"	"BP"	79	22	0.00115334505731824	0.273685655020489
+"GO:1902680"	"positive regulation of RNA biosynthetic process"	"BP"	1617	272	0.00115758917697143	0.273685655020489
+"GO:0009891"	"positive regulation of biosynthetic process"	"BP"	1984	328	0.00117533597479052	0.273685655020489
+"GO:0031328"	"positive regulation of cellular biosynthetic process"	"BP"	1945	322	0.00119262394515007	0.273685655020489
+"GO:0006639"	"acylglycerol metabolic process"	"BP"	131	32	0.00124658536996987	0.281827033048435
+"GO:0030100"	"regulation of endocytosis"	"BP"	208	46	0.00128550217709103	0.287776046193104
+"GO:0050790"	"regulation of catalytic activity"	"BP"	2344	382	0.00130801870644367	0.289973778086746
+"GO:0023052"	"signaling"	"BP"	6528	998	0.00133703604961866	0.292232983551661
+"GO:0042221"	"response to chemical"	"BP"	4410	689	0.00135283990389565	0.292232983551661
+"GO:0018130"	"heterocycle biosynthetic process"	"BP"	3996	628	0.00135660402279391	0.292232983551661
+"GO:0031579"	"membrane raft organization"	"BP"	25	10	0.00139032757968215	0.295418007690068
+"GO:1901362"	"organic cyclic compound biosynthetic process"	"BP"	4160	652	0.00139726481696275	0.295418007690068
+"GO:0006638"	"neutral lipid metabolic process"	"BP"	132	32	0.00142548466705857	0.296338242924558
+"GO:0032501"	"multicellular organismal process"	"BP"	7480	1135	0.00142757321195154	0.296338242924558
+"GO:1903508"	"positive regulation of nucleic acid-templated transcription"	"BP"	1611	270	0.00149080673947205	0.303938224009864
+"GO:0045893"	"positive regulation of transcription, DNA-templated"	"BP"	1611	270	0.00149080673947205	0.303938224009864
+"GO:0007154"	"cell communication"	"BP"	6583	1005	0.00152756627412311	0.308676533657761
+"GO:0044267"	"cellular protein metabolic process"	"BP"	4825	749	0.00155207871107613	0.310878642883441
+"GO:0032091"	"negative regulation of protein binding"	"BP"	96	25	0.00158210193282846	0.311428582191423
+"GO:0043086"	"negative regulation of catalytic activity"	"BP"	785	141	0.00163385450787495	0.31886695583604
+"GO:0034654"	"nucleobase-containing compound biosynthetic process"	"BP"	3923	616	0.00165335312628991	0.319937841404269
+"GO:0010557"	"positive regulation of macromolecule biosynthetic process"	"BP"	1832	303	0.00176445138763202	0.336871168869392
+"GO:0090119"	"vesicle-mediated cholesterol transport"	"BP"	5	4	0.00179987223447779	0.336871168869392
+"GO:0006820"	"anion transport"	"BP"	514	97	0.00183064859025891	0.337475867719488
+"GO:0070887"	"cellular response to chemical stimulus"	"BP"	3051	486	0.00187412148473002	0.342349519858602
+"GO:0046339"	"diacylglycerol metabolic process"	"BP"	26	10	0.00197447833030079	0.356414989577862
+"GO:0015802"	"basic amino acid transport"	"BP"	11	6	0.00198233790296875	0.356414989577862
+"GO:0051569"	"regulation of histone H3-K4 methylation"	"BP"	39	13	0.0020326523538118	0.362606123804208
+"GO:0051234"	"establishment of localization"	"BP"	4640	720	0.00206033701123787	0.364695622593842
+"GO:1904491"	"protein localization to ciliary transition zone"	"BP"	8	5	0.00221521579782024	0.389094134826365
+"GO:0086005"	"ventricular cardiac muscle cell action potential"	"BP"	35	12	0.00228500141867644	0.395280209896307
+"GO:0046503"	"glycerolipid catabolic process"	"BP"	68	19	0.00233028876413238	0.397088161494021
+"GO:0007165"	"signal transduction"	"BP"	6042	923	0.00249485241034446	0.419190967694972
+"GO:0009593"	"detection of chemical stimulus"	"BP"	513	96	0.00250450014691086	0.419190967694972
+"GO:0045944"	"positive regulation of transcription by RNA polymerase II"	"BP"	1203	205	0.00251507237339981	0.419190967694972
+"GO:0044271"	"cellular nitrogen compound biosynthetic process"	"BP"	4714	729	0.00269447554120516	0.422558353257523
+"GO:0009651"	"response to salt stress"	"BP"	27	10	0.0027412801290202	0.422558353257523
+"GO:0006650"	"glycerophospholipid metabolic process"	"BP"	309	62	0.00276266195212603	0.422558353257523
+"GO:0071870"	"cellular response to catecholamine stimulus"	"BP"	105	26	0.00278214019330377	0.422558353257523
+"GO:0071868"	"cellular response to monoamine stimulus"	"BP"	105	26	0.00278214019330377	0.422558353257523
+"GO:0050907"	"detection of chemical stimulus involved in sensory perception"	"BP"	478	90	0.00279425238014435	0.422558353257523
+"GO:1990927"	"calcium ion regulated lysosome exocytosis"	"BP"	3	3	0.00286172220320726	0.422558353257523
+"GO:0070236"	"negative regulation of activation-induced cell death of T cells"	"BP"	3	3	0.00286172220320726	0.422558353257523
+"GO:0010693"	"negative regulation of alkaline phosphatase activity"	"BP"	3	3	0.00286172220320726	0.422558353257523
+"GO:1903070"	"negative regulation of ER-associated ubiquitin-dependent protein catabolic process"	"BP"	3	3	0.00286172220320726	0.422558353257523
+"GO:0071659"	"negative regulation of IP-10 production"	"BP"	3	3	0.00286172220320726	0.422558353257523
+"GO:0031291"	"Ran protein signal transduction"	"BP"	3	3	0.00286172220320726	0.422558353257523
+"GO:0018022"	"peptidyl-lysine methylation"	"BP"	143	33	0.00286837806581922	0.422558353257523
+"GO:0007606"	"sensory perception of chemical stimulus"	"BP"	528	98	0.00293673002486921	0.427116518394036
+"GO:0061157"	"mRNA destabilization"	"BP"	90	23	0.00309376294289949	0.439185048149521
