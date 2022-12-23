@@ -43,7 +43,11 @@ Platform type: Illumina NextSeq 500
 
 The GEO dataset with accession ID GSE159699 (expression profiling by high-throughput sequencing sequencing of human postmortal hippocampal brain tissues) will be analysed in a case versus control framework for differential gene expression. The sequencing was done with single ends.
 
-#Pipeline
+```{r, echo=FALSE}
+htmltools::includeHTML("multiqc_report.html")
+```
+
+# Pipeline
 
 ## Import gene counts and metadata
 
@@ -171,16 +175,16 @@ write.table(RNAseq_GSA_res, sep= "\t", file="C:/Users/Luca Visser/Documents/1st 
 
 ```{r include = FALSE}
 # Generate pngs
-png("mdsplot.png")
+png("images/mdsplot.png")
 plotMDS(dge, top = 500, col=as.double(annot$disease))
 abline(h=c(1,-1), col=c("blue", "blue"), lty=c(2,2))
 dev.off()
 
-png("bcvplot.png")
+png("images/bcvplot.png")
 plotBCV(dge)
 dev.off()
 
-png("smearplot.png")
+png("images/smearplot.png")
 plotSmear(LRT,de.tags=rownames(dge)[as.logical(dt)])
 dev.off()
 
