@@ -1,101 +1,101 @@
 "Term"	"Ont"	"N"	"DE"	"P.DE"	"FDR.DE"
-"GO:0044237"	"cellular metabolic process"	"BP"	10860	1038	3.84176705809175e-20	4.61699521076142e-17
-"GO:0006996"	"organelle organization"	"BP"	3829	426	4.72181586937308e-15	3.99325716893574e-12
-"GO:0007005"	"mitochondrion organization"	"BP"	524	96	6.02056438431725e-15	4.90977025541071e-12
-"GO:0006091"	"generation of precursor metabolites and energy"	"BP"	494	90	6.08771230496961e-14	4.21232796277806e-11
-"GO:0009060"	"aerobic respiration"	"BP"	187	48	1.68958192056699e-13	1.1022832449779e-10
-"GO:0044238"	"primary metabolic process"	"BP"	10677	988	2.05522477536447e-13	1.30358340335201e-10
-"GO:0046034"	"ATP metabolic process"	"BP"	273	60	2.93115423775773e-13	1.80891826662054e-10
-"GO:0045333"	"cellular respiration"	"BP"	231	54	3.31003009888472e-13	1.98897966520878e-10
-"GO:0006807"	"nitrogen compound metabolic process"	"BP"	10152	943	8.4633783115884e-13	4.83131950917024e-10
-"GO:0008152"	"metabolic process"	"BP"	12337	1110	2.11229075201902e-12	1.14838207218101e-09
-"GO:1901575"	"organic substance catabolic process"	"BP"	2064	248	5.6993367687262e-12	2.95769672220669e-09
-"GO:0009056"	"catabolic process"	"BP"	2519	291	5.87209440117051e-12	2.97963119014061e-09
-"GO:0033108"	"mitochondrial respiratory chain complex assembly"	"BP"	94	30	1.61814328318425e-11	7.86142206983601e-09
-"GO:0015980"	"energy derivation by oxidation of organic compounds"	"BP"	321	62	4.25961331739744e-11	1.90897258335588e-08
-"GO:0034641"	"cellular nitrogen compound metabolic process"	"BP"	6864	663	1.06611610570296e-10	4.2708237118634e-08
-"GO:0046907"	"intracellular transport"	"BP"	1529	190	1.61650637611853e-10	6.05103386758862e-08
-"GO:1901360"	"organic cyclic compound metabolic process"	"BP"	6481	629	2.1904601566582e-10	7.81515112767708e-08
-"GO:0009057"	"macromolecule catabolic process"	"BP"	1334	169	4.35366513540511e-10	1.50623620760364e-07
-"GO:0046483"	"heterocycle metabolic process"	"BP"	6180	601	5.69964245597771e-10	1.94247217671336e-07
-"GO:0044260"	"cellular macromolecule metabolic process"	"BP"	5707	561	6.00880482363476e-10	2.01772131386583e-07
-"GO:0042773"	"ATP synthesis coupled electron transport"	"BP"	92	27	1.36570653186664e-09	4.33118652064484e-07
-"GO:0042775"	"mitochondrial ATP synthesis coupled electron transport"	"BP"	92	27	1.36570653186664e-09	4.33118652064484e-07
-"GO:0009987"	"cellular process"	"BP"	17325	1457	1.39336537356243e-09	4.3583705397157e-07
-"GO:0006119"	"oxidative phosphorylation"	"BP"	139	34	2.21361424968173e-09	6.31820847215409e-07
-"GO:0043933"	"protein-containing complex organization"	"BP"	1736	205	2.32328820356589e-09	6.52887847493415e-07
-"GO:0044248"	"cellular catabolic process"	"BP"	2182	247	2.34460906956556e-09	6.52887847493415e-07
-"GO:0022904"	"respiratory electron transport chain"	"BP"	113	30	2.41902061060872e-09	6.65492971357103e-07
-"GO:0006725"	"cellular aromatic compound metabolic process"	"BP"	6240	601	3.02646451071784e-09	7.95697384935583e-07
-"GO:0044265"	"cellular macromolecule catabolic process"	"BP"	1137	146	3.0316927603309e-09	7.95697384935583e-07
-"GO:0006139"	"nucleobase-containing compound metabolic process"	"BP"	6015	582	3.17723195236345e-09	8.24419481821217e-07
-"GO:0071840"	"cellular component organization or biogenesis"	"BP"	6368	610	5.21213633188051e-09	1.32237690002399e-06
-"GO:0008104"	"protein localization"	"BP"	2421	267	5.90958204819893e-09	1.48285051086345e-06
-"GO:0070727"	"cellular macromolecule localization"	"BP"	1684	198	6.41283998021518e-09	1.59163900117645e-06
-"GO:0032981"	"mitochondrial respiratory chain complex I assembly"	"BP"	58	20	8.55028780404782e-09	2.07699225231519e-06
-"GO:0010257"	"NADH dehydrogenase complex assembly"	"BP"	58	20	8.55028780404782e-09	2.07699225231519e-06
-"GO:1901564"	"organonitrogen compound metabolic process"	"BP"	6372	608	1.08802636722542e-08	2.61515727044476e-06
-"GO:0034613"	"cellular protein localization"	"BP"	1675	196	1.12471834799297e-08	2.67518945396578e-06
-"GO:0051641"	"cellular localization"	"BP"	2801	299	1.67587195163514e-08	3.94503712820997e-06
-"GO:0019646"	"aerobic electron transport chain"	"BP"	84	24	1.98780355276444e-08	4.45433942979771e-06
-"GO:0016043"	"cellular component organization"	"BP"	6168	588	2.73996841804758e-08	6.07421736482509e-06
-"GO:0006120"	"mitochondrial electron transport, NADH to ubiquinone"	"BP"	51	18	3.12169263177535e-08	6.85391630326522e-06
-"GO:0044085"	"cellular component biogenesis"	"BP"	3170	330	3.57598255301122e-08	7.77657005861507e-06
-"GO:0033036"	"macromolecule localization"	"BP"	2876	303	4.85197126736808e-08	1.03953053891822e-05
-"GO:0071704"	"organic substance metabolic process"	"BP"	11835	1041	5.4645667023331e-08	1.15535107482476e-05
-"GO:0015031"	"protein transport"	"BP"	1546	180	6.85021463889109e-08	1.42198000967672e-05
-"GO:1901576"	"organic substance biosynthetic process"	"BP"	5715	547	7.00204511322627e-08	1.4404026857244e-05
-"GO:0045184"	"establishment of protein localization"	"BP"	1654	190	7.61692059953077e-08	1.55289968722934e-05
-"GO:0009058"	"biosynthetic process"	"BP"	5801	553	1.00772872224066e-07	2.01846295119677e-05
-"GO:0006886"	"intracellular protein transport"	"BP"	851	111	1.15881659966471e-07	2.30090593362992e-05
-"GO:0065003"	"protein-containing complex assembly"	"BP"	1541	178	1.41290778930194e-07	2.75746465477952e-05
-"GO:0090304"	"nucleic acid metabolic process"	"BP"	5556	531	1.54930478728025e-07	2.99803606040315e-05
-"GO:0006090"	"pyruvate metabolic process"	"BP"	106	26	1.57012759478601e-07	3.01279777305409e-05
-"GO:1901565"	"organonitrogen compound catabolic process"	"BP"	1334	158	1.60078441298281e-07	3.04602594050413e-05
-"GO:0022607"	"cellular component assembly"	"BP"	2928	304	1.87918662305059e-07	3.51715961891288e-05
-"GO:0007049"	"cell cycle"	"BP"	1760	197	2.8465896496908e-07	5.11803370559369e-05
-"GO:0051649"	"establishment of localization in cell"	"BP"	2084	226	4.07776313994988e-07	7.10775904867295e-05
-"GO:0033365"	"protein localization to organelle"	"BP"	873	111	4.25458017611907e-07	7.35977907132597e-05
-"GO:0044281"	"small molecule metabolic process"	"BP"	1762	196	4.75002619553662e-07	8.15504497360024e-05
-"GO:0006165"	"nucleoside diphosphate phosphorylation"	"BP"	99	24	5.87203132264081e-07	9.93199727564297e-05
-"GO:0006107"	"oxaloacetate metabolic process"	"BP"	9	7	6.10002687892257e-07	0.000102417657171557
-"GO:0046939"	"nucleotide phosphorylation"	"BP"	100	24	7.15101770157522e-07	0.000119187108173554
-"GO:0022900"	"electron transport chain"	"BP"	167	33	8.5560708437223e-07	0.000140553468809752
-"GO:0006096"	"glycolytic process"	"BP"	81	21	9.00567661970753e-07	0.00014688258566743
-"GO:0051171"	"regulation of nitrogen compound metabolic process"	"BP"	5667	534	9.47245067999017e-07	0.00015339995661482
-"GO:0044249"	"cellular biosynthetic process"	"BP"	5648	532	1.06159028584317e-06	0.000167174845427192
-"GO:0006259"	"DNA metabolic process"	"BP"	991	121	1.07296041014896e-06	0.000167808068529735
-"GO:0006757"	"ATP generation from ADP"	"BP"	82	21	1.12087321732027e-06	0.000174108973090415
-"GO:0009081"	"branched-chain amino acid metabolic process"	"BP"	25	11	1.18958152403968e-06	0.000183533138648123
-"GO:0000278"	"mitotic cell cycle"	"BP"	898	111	1.69019749321037e-06	0.000252248167058598
-"GO:0007051"	"spindle organization"	"BP"	188	35	1.73503092389198e-06	0.000257257766987983
-"GO:0044267"	"cellular protein metabolic process"	"BP"	4825	461	1.75999285475591e-06	0.000259275334487074
-"GO:0006099"	"tricarboxylic acid cycle"	"BP"	31	12	2.02609479888455e-06	0.000294674195144775
-"GO:0044257"	"cellular protein catabolic process"	"BP"	824	103	2.43583454542023e-06	0.000352024341836237
-"GO:0071705"	"nitrogen compound transport"	"BP"	1993	213	2.59737529363209e-06	0.000373009229275441
-"GO:1901362"	"organic cyclic compound biosynthetic process"	"BP"	4160	403	2.68701386372523e-06	0.000376412727388355
-"GO:0016052"	"carbohydrate catabolic process"	"BP"	152	30	2.71897836387707e-06	0.000378567999760786
-"GO:0044271"	"cellular nitrogen compound biosynthetic process"	"BP"	4714	450	2.76992371868258e-06	0.000383323867832716
-"GO:0006974"	"cellular response to DNA damage stimulus"	"BP"	807	101	2.88961993078887e-06	0.000397479406624295
-"GO:0072350"	"tricarboxylic acid metabolic process"	"BP"	14	8	3.00143346356548e-06	0.000407944831589608
-"GO:0030163"	"protein catabolic process"	"BP"	982	118	3.20781585819939e-06	0.000430866278271323
-"GO:0070585"	"protein localization to mitochondrion"	"BP"	125	26	4.5323823885619e-06	0.000591742162801995
-"GO:0033554"	"cellular response to stress"	"BP"	1866	200	4.5351177406652e-06	0.000591742162801995
-"GO:0051603"	"proteolysis involved in cellular protein catabolic process"	"BP"	766	96	4.80297175481701e-06	0.000623131005963021
-"GO:0019538"	"protein metabolic process"	"BP"	5432	508	5.25395426080939e-06	0.00067021671280068
-"GO:0140053"	"mitochondrial gene expression"	"BP"	104	23	5.40414926105851e-06	0.000681758807884033
-"GO:0046031"	"ADP metabolic process"	"BP"	90	21	5.61543368147501e-06	0.000704520948806595
-"GO:0007017"	"microtubule-based process"	"BP"	892	108	6.01492806758144e-06	0.000746439497256276
-"GO:0000226"	"microtubule cytoskeleton organization"	"BP"	622	81	6.43578596675633e-06	0.000794349928458995
-"GO:0019693"	"ribose phosphate metabolic process"	"BP"	394	57	7.14959264288757e-06	0.000873014964747031
-"GO:0032543"	"mitochondrial translation"	"BP"	72	18	9.28676132814935e-06	0.00112197835008975
-"GO:0016071"	"mRNA metabolic process"	"BP"	728	91	9.40023978537597e-06	0.00112971092241724
-"GO:0006734"	"NADH metabolic process"	"BP"	30	11	1.00528415583486e-05	0.00120181457666666
-"GO:0080090"	"regulation of primary metabolic process"	"BP"	5825	538	1.0532641375751e-05	0.00125261631861405
-"GO:0019752"	"carboxylic acid metabolic process"	"BP"	914	109	1.07069300648258e-05	0.00126674632694421
-"GO:0007052"	"mitotic spindle organization"	"BP"	124	25	1.21959560729924e-05	0.0014354766029418
-"GO:0043436"	"oxoacid metabolic process"	"BP"	939	111	1.31426471445648e-05	0.0015389702815333
-"GO:0043648"	"dicarboxylic acid metabolic process"	"BP"	95	21	1.37565240157439e-05	0.0015982678634265
-"GO:0009259"	"ribonucleotide metabolic process"	"BP"	384	55	1.37890325433573e-05	0.0015982678634265
-"GO:0019219"	"regulation of nucleobase-containing compound metabolic process"	"BP"	3995	383	1.4367755793427e-05	0.00164316754614755
-"GO:0009150"	"purine ribonucleotide metabolic process"	"BP"	366	53	1.43922882206144e-05	0.00164316754614755
+"GO:0044237"	"cellular metabolic process"	"BP"	10271	965	4.2710719168155e-20	6.53844162838895e-17
+"GO:0006996"	"organelle organization"	"BP"	3556	397	2.39704256501898e-16	2.1170495546358e-13
+"GO:0006807"	"nitrogen compound metabolic process"	"BP"	10310	947	6.05558251436992e-16	5.03969612005785e-13
+"GO:0044238"	"primary metabolic process"	"BP"	10825	986	6.14516793805774e-16	5.03969612005785e-13
+"GO:0009060"	"aerobic respiration"	"BP"	194	51	3.0985103514325e-15	2.37170310666481e-12
+"GO:0045333"	"cellular respiration"	"BP"	240	56	3.6711786684232e-14	2.63441486759381e-11
+"GO:0034641"	"cellular nitrogen compound metabolic process"	"BP"	7053	681	4.23479719379452e-14	2.94677721094253e-11
+"GO:0006091"	"generation of precursor metabolites and energy"	"BP"	505	89	1.06021135144548e-13	7.1604803715419e-11
+"GO:0009199"	"ribonucleoside triphosphate metabolic process"	"BP"	249	56	1.91226219081472e-13	1.25460790536224e-10
+"GO:0009205"	"purine ribonucleoside triphosphate metabolic process"	"BP"	242	55	1.9853604148799e-13	1.26638420019131e-10
+"GO:0007005"	"mitochondrion organization"	"BP"	542	92	3.90813273673024e-13	2.36164347456675e-10
+"GO:0009144"	"purine nucleoside triphosphate metabolic process"	"BP"	247	55	4.83624916464251e-13	2.84755870686374e-10
+"GO:0009141"	"nucleoside triphosphate metabolic process"	"BP"	267	57	1.17556571216617e-12	6.74862886211795e-10
+"GO:0046034"	"ATP metabolic process"	"BP"	217	50	1.42380851743251e-12	7.97436950873236e-10
+"GO:0042773"	"ATP synthesis coupled electron transport"	"BP"	101	32	1.89455344914409e-12	9.85502916437368e-10
+"GO:0042775"	"mitochondrial ATP synthesis coupled electron transport"	"BP"	101	32	1.89455344914409e-12	9.85502916437368e-10
+"GO:0046483"	"heterocycle metabolic process"	"BP"	6336	613	1.97418169037665e-12	9.85502916437368e-10
+"GO:0015980"	"energy derivation by oxidation of organic compounds"	"BP"	333	65	2.31769658709167e-12	1.13236737722098e-09
+"GO:1901360"	"organic cyclic compound metabolic process"	"BP"	6632	636	3.03232890621003e-12	1.42104834027145e-09
+"GO:0006119"	"oxidative phosphorylation"	"BP"	147	39	4.07142887812116e-12	1.86984442656592e-09
+"GO:0006139"	"nucleobase-containing compound metabolic process"	"BP"	6165	596	6.25549475678591e-12	2.78274133949317e-09
+"GO:0008152"	"metabolic process"	"BP"	12433	1083	6.30155248241278e-12	2.78274133949317e-09
+"GO:0006725"	"cellular aromatic compound metabolic process"	"BP"	6392	614	7.70063500097836e-12	3.27462373199011e-09
+"GO:0009987"	"cellular process"	"BP"	17266	1421	7.99024254467251e-12	3.33599890096936e-09
+"GO:1901575"	"organic substance catabolic process"	"BP"	2120	245	1.83201235329417e-11	7.13025418113458e-09
+"GO:1901564"	"organonitrogen compound metabolic process"	"BP"	6535	623	2.0496813552944e-11	7.75727610219403e-09
+"GO:0019693"	"ribose phosphate metabolic process"	"BP"	475	80	2.06067953766422e-11	7.75727610219403e-09
+"GO:0019646"	"aerobic electron transport chain"	"BP"	93	29	3.18500888271979e-11	1.17963482215959e-08
+"GO:0009150"	"purine ribonucleotide metabolic process"	"BP"	447	76	4.14563901244896e-11	1.42084042750546e-08
+"GO:0009056"	"catabolic process"	"BP"	2579	285	4.6763938473038e-11	1.57917693993584e-08
+"GO:0009259"	"ribonucleotide metabolic process"	"BP"	466	78	5.01994412736259e-11	1.67062285502358e-08
+"GO:0046907"	"intracellular transport"	"BP"	1587	193	5.25901749238719e-11	1.72518312396696e-08
+"GO:0022904"	"respiratory electron transport chain"	"BP"	122	33	1.02999207183916e-10	3.33122647121726e-08
+"GO:0044260"	"cellular macromolecule metabolic process"	"BP"	3266	344	1.12788512045782e-10	3.59717028070457e-08
+"GO:0033108"	"mitochondrial respiratory chain complex assembly"	"BP"	99	29	1.72890711117262e-10	5.29345253251426e-08
+"GO:1901576"	"organic substance biosynthetic process"	"BP"	5877	563	1.99596079606619e-10	5.95236983896986e-08
+"GO:0009117"	"nucleotide metabolic process"	"BP"	597	91	2.19718003143835e-10	6.38656266606566e-08
+"GO:0009058"	"biosynthetic process"	"BP"	5962	569	2.80900550908761e-10	8.06289918814736e-08
+"GO:0044085"	"cellular component biogenesis"	"BP"	3273	342	3.42431839892952e-10	9.70773128328625e-08
+"GO:0006163"	"purine nucleotide metabolic process"	"BP"	476	77	3.48800177173963e-10	9.76768105908013e-08
+"GO:0071840"	"cellular component organization or biogenesis"	"BP"	6601	620	3.95491526338662e-10	1.09417733967647e-07
+"GO:0006753"	"nucleoside phosphate metabolic process"	"BP"	605	91	4.44062065164473e-10	1.21392823837759e-07
+"GO:0043933"	"protein-containing complex organization"	"BP"	1845	213	5.33968206169618e-10	1.44253081391446e-07
+"GO:0072521"	"purine-containing compound metabolic process"	"BP"	507	79	1.24078324573907e-09	3.09453132160153e-07
+"GO:0044271"	"cellular nitrogen compound biosynthetic process"	"BP"	4865	473	1.90919533109816e-09	4.56675545708408e-07
+"GO:0009057"	"macromolecule catabolic process"	"BP"	1385	167	2.29966451978886e-09	5.4440408626713e-07
+"GO:0009201"	"ribonucleoside triphosphate biosynthetic process"	"BP"	123	31	2.50025336008745e-09	5.85850182731512e-07
+"GO:0022607"	"cellular component assembly"	"BP"	3011	314	2.88427861743894e-09	6.66088789020278e-07
+"GO:0009206"	"purine ribonucleoside triphosphate biosynthetic process"	"BP"	117	30	2.90070456395191e-09	6.66088789020278e-07
+"GO:0032543"	"mitochondrial translation"	"BP"	131	32	3.21536426675876e-09	7.22584279508133e-07
+"GO:0071704"	"organic substance metabolic process"	"BP"	11974	1031	3.24113490351164e-09	7.22584279508133e-07
+"GO:0016043"	"cellular component organization"	"BP"	6395	597	3.28539812729254e-09	7.25409588432872e-07
+"GO:0009145"	"purine nucleoside triphosphate biosynthetic process"	"BP"	118	30	3.60637353692175e-09	7.88696719317468e-07
+"GO:0006754"	"ATP biosynthetic process"	"BP"	106	28	4.72571659256632e-09	1.01417411322524e-06
+"GO:0009142"	"nucleoside triphosphate biosynthetic process"	"BP"	134	32	5.85099329982749e-09	1.24404036244388e-06
+"GO:0140053"	"mitochondrial gene expression"	"BP"	163	36	6.35921079071025e-09	1.33969318703743e-06
+"GO:0044249"	"cellular biosynthetic process"	"BP"	5807	547	6.71222601660927e-09	1.40120769108544e-06
+"GO:0032981"	"mitochondrial respiratory chain complex I assembly"	"BP"	59	20	7.12091519242226e-09	1.44705819082825e-06
+"GO:0010257"	"NADH dehydrogenase complex assembly"	"BP"	59	20	7.12091519242226e-09	1.44705819082825e-06
+"GO:0065003"	"protein-containing complex assembly"	"BP"	1650	189	1.05995690436568e-08	2.09825779266803e-06
+"GO:0055086"	"nucleobase-containing small molecule metabolic process"	"BP"	673	94	1.08011314423326e-08	2.10495597259005e-06
+"GO:1901362"	"organic cyclic compound biosynthetic process"	"BP"	4253	416	1.46503093633638e-08	2.82701725975565e-06
+"GO:0051649"	"establishment of localization in cell"	"BP"	2108	230	1.56445029914806e-08	2.99370601827808e-06
+"GO:0006120"	"mitochondrial electron transport, NADH to ubiquinone"	"BP"	51	18	1.94513997511546e-08	3.69142555773358e-06
+"GO:0019637"	"organophosphate metabolic process"	"BP"	1034	129	2.45284037695431e-08	4.61676832590179e-06
+"GO:0044281"	"small molecule metabolic process"	"BP"	1841	204	3.58541844730231e-08	6.69365559393519e-06
+"GO:0046390"	"ribose phosphate biosynthetic process"	"BP"	241	44	6.40951419356263e-08	1.14094321261069e-05
+"GO:0042776"	"proton motive force-driven mitochondrial ATP synthesis"	"BP"	67	20	8.1277380057149e-08	1.41861367987252e-05
+"GO:0044248"	"cellular catabolic process"	"BP"	2134	228	1.03062354293244e-07	1.77941416664343e-05
+"GO:0018130"	"heterocycle biosynthetic process"	"BP"	4086	396	1.12912568138233e-07	1.93493380758079e-05
+"GO:0070727"	"cellular macromolecule localization"	"BP"	2479	258	1.27741172720404e-07	2.16952357052457e-05
+"GO:0006090"	"pyruvate metabolic process"	"BP"	108	26	1.28491575835623e-07	2.16952357052457e-05
+"GO:1901565"	"organonitrogen compound catabolic process"	"BP"	1371	158	1.31571097076707e-07	2.20530445414046e-05
+"GO:0022900"	"electron transport chain"	"BP"	176	35	1.65596029405674e-07	2.73567023254855e-05
+"GO:0008104"	"protein localization"	"BP"	2469	256	1.98760236750627e-07	3.19170022133192e-05
+"GO:0009260"	"ribonucleotide biosynthetic process"	"BP"	234	42	2.06437561707266e-07	3.29196231214163e-05
+"GO:0006886"	"intracellular protein transport"	"BP"	868	109	2.24599812013613e-07	3.55688654018524e-05
+"GO:0090304"	"nucleic acid metabolic process"	"BP"	5606	519	2.50025994629345e-07	3.93242939361209e-05
+"GO:0009152"	"purine ribonucleotide biosynthetic process"	"BP"	220	40	2.80848908934577e-07	4.38716564344537e-05
+"GO:0051641"	"cellular localization"	"BP"	3351	331	3.00925889684025e-07	4.66902784109073e-05
+"GO:0019438"	"aromatic compound biosynthetic process"	"BP"	4100	394	3.19216121538143e-07	4.91957033481904e-05
+"GO:0007049"	"cell cycle"	"BP"	1823	197	3.933204562472e-07	6.02121175786964e-05
+"GO:0006165"	"nucleoside diphosphate phosphorylation"	"BP"	100	24	4.1154229639969e-07	6.25844089551396e-05
+"GO:0045184"	"establishment of protein localization"	"BP"	1671	183	4.42666898525e-07	6.64376469988861e-05
+"GO:0015031"	"protein transport"	"BP"	1564	173	4.98970136727577e-07	7.39216209656475e-05
+"GO:0044265"	"cellular macromolecule catabolic process"	"BP"	1029	123	5.43401491162015e-07	7.99880028304702e-05
+"GO:0046939"	"nucleotide phosphorylation"	"BP"	102	24	6.07644560091563e-07	8.83122913505226e-05
+"GO:0051171"	"regulation of nitrogen compound metabolic process"	"BP"	5792	531	6.1600688581714e-07	8.8964566786283e-05
+"GO:0033036"	"macromolecule localization"	"BP"	2946	294	6.90110004793875e-07	9.84261142309135e-05
+"GO:0016052"	"carbohydrate catabolic process"	"BP"	155	31	7.25689659296663e-07	0.000102233200284842
+"GO:0015986"	"proton motive force-driven ATP synthesis"	"BP"	76	20	7.81496299161172e-07	0.000109423777546573
+"GO:0006096"	"glycolytic process"	"BP"	83	21	8.46977802035943e-07	0.000117163561856334
+"GO:0000278"	"mitotic cell cycle"	"BP"	946	114	9.62310672672868e-07	0.000132320598662198
+"GO:0034654"	"nucleobase-containing compound biosynthetic process"	"BP"	4013	383	1.03818453319998e-06	0.000141064091336516
+"GO:0006757"	"ATP generation from ADP"	"BP"	84	21	1.04814693444376e-06	0.000141579988562541
+"GO:0006164"	"purine nucleotide biosynthetic process"	"BP"	242	41	1.37274295978925e-06	0.000183269166195585
+"GO:0006099"	"tricarboxylic acid cycle"	"BP"	31	12	1.46639790206542e-06	0.000194641011705944
+"GO:0006734"	"NADH metabolic process"	"BP"	37	13	1.94755131391014e-06	0.000254100118302946
+"GO:0007051"	"spindle organization"	"BP"	195	35	2.07504665071426e-06	0.00026920506350481
+"GO:0009081"	"branched-chain amino acid metabolic process"	"BP"	27	11	2.22155997404019e-06	0.000284992635105502

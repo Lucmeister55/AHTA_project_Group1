@@ -123,19 +123,19 @@ print(common_seq)
 
 ```{r include = FALSE}
 # Generate pngs
-png("fcplot.png")
+png("images/fcplot.png")
 plot(RNAseq_filtered$logFC, Arr_filtered$logFC, pch=20, xlab="logFC in RNA-seq", ylab="logFC in expression array", cex=0.50, col=sign_combined)
 dev.off()
 
-png("venn_up.png")
+png("images/venn_up.png")
 print(venn_up)
 dev.off()
 
-png("venn_down.png")
+png("images/venn_down.png")
 print(venn_down)
 dev.off()
 
-png("venn_all.png")
+png("images/venn_all.png")
 print(venn_all)
 dev.off()
 
