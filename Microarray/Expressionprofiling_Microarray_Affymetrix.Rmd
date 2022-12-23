@@ -218,7 +218,7 @@ goanaOut_BP <- goanaOut[goanaOut$Ont == "BP",]
 print(paste("Amount of significant GO Biological Process terms:", as.character(sum(goanaOut_BP$FDR.DE < 0.05))))
 ```
 ```{r}
-topGOarray[order(topGOarray$N), ]
+topGOarray[order(topGOarray$FDR.DE), ]
 ```
 ```{r}
 write.table(LIMMAout_RMA, sep= "\t", file="C:/Users/Luca Visser/Documents/1st master/AHTA/Practica/Project/analysis/Comparison/limmaExprsArray_results.txt")
@@ -228,20 +228,20 @@ write.table(array_GSA_res, sep= "\t", file="C:/Users/Luca Visser/Documents/1st m
 
 ```{r include = FALSE}
 # Generate pngs
-png("mdsplot.png")
+png("images/mdsplot.png")
 plotMDS(data.norm, top = 500, col=as.double(annot.filt$disease))
 dev.off()
 
-png("normboxplot.png")
+png("images/normboxplot.png")
 boxplot(d2)
 dev.off()
 
-png("maplot.png")
+png("images/maplot.png")
 limma::plotMA(fit2, status = p, hl.cex = 0.1)
 abline(h=c(1,-1), col=c("blue", "blue"), lty=c(2,2))
 dev.off()
 
-png("volcanoplot.png")
+png("images/volcanoplot.png")
 volcanoplot(fit2)
 dev.off()
 
